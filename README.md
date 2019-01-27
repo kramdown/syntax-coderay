@@ -1,3 +1,6 @@
+**Important: This repo and gem are unmaintained! If you are interested in
+maintaining, please contact me at <t_leitner@gmx.at>.**
+
 # kramdown syntax highlighter based on Coderay
 
 This is a syntax highlighter for [kramdown](https://kramdown.gettalong.org)
