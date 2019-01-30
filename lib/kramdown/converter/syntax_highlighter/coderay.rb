@@ -103,7 +103,7 @@ EOF
       # Uses Coderay to highlight code blocks and code spans.
       module Coderay
 
-        VERSION = '1.0.0'
+        VERSION = '1.0.1'
 
         def self.call(converter, text, lang, type, call_opts)
           return nil unless converter.options[:enable_coderay]
